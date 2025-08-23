@@ -1,0 +1,70 @@
+.container{
+    margin-bottom: 0px;
+    
+    
+}
+.navi{
+    background-color: rgb(220, 255, 197) !important;
+}
+.fahim{
+    background-color: rgb(199, 199, 199);
+}
+
+
+.abc{
+    margin-top: 150px;
+    margin-bottom: 20px;
+    
+    border-radius: 10px;
+}
+
+
+.nav-bold{
+    font-weight:500;
+}
+.nav-bold:hover{
+    background-color: green;
+    color: rgb(255, 255, 255) !important;
+    border-radius: 5px;
+    
+}
+.active:hover{
+    background-color: green !important;
+   
+}
+
+.ready-to-learn{
+    color: rgb(221, 72, 3);
+}
+.learn-with{
+    font-weight: bolder;
+    font-size: 50px;
+}
+.on-any{
+    color: rgb(182, 109, 0);
+}
+.box{
+    padding-top: 40px;
+    box-shadow:5px 5px 15px rgb(69, 69, 70);
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 270px;
+    width: 270px;
+    background-color: white;
+ 
+}
+
+.online-courses{
+    text-align: center;
+    margin-top: 100px;
+    color:black;
+}
+.course-img{
+    padding: 40px;
+}
+
+.padd{
+    margin: 20px;
+    border-radius: 10px;
+    background-image: linear-gradient(to left,rgb(3, 170, 248),rgb(205, 233, 205));
+}
